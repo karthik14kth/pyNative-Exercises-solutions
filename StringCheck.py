@@ -1,0 +1,5 @@
+str1 = input("Enter the string")
+str2= input("Enter the string to be looked")
+str1 =str1.upper()
+str2=str2.upper()
+print("The number of occurence of the string in the sentence is",str1.count(str2))
